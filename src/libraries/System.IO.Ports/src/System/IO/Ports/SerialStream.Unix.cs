@@ -895,7 +895,7 @@ namespace System.IO.Ports
                         }
                     }
 
-                    Thread.Sleep(1);
+                    Thread.Sleep(100);
                 }
                 else
                 {
